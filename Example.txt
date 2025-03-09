@@ -1,4 +1,0 @@
-This is only for the robotics club please do read:
-#1 Don't update without pulling.
-#2 Don't Push if there is an important pull
-#3 Is just rule #1
