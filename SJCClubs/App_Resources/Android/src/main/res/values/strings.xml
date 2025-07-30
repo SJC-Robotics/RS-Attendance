@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SJC App</string>  <!-- Add this line -->
+    <string name="app_info_name">SJC App</string>
+    <string name="title_activity_kimera">SJC App</string>
+</resources>
